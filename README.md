@@ -1,1 +1,5 @@
-# legislative
+# The House of Elementals
+As established in the Constitution of the Aether Nation [Article 1, Section 2](https://github.com/AetherNation/constitution/blob/main/constitution.md), the Legislative power of the government shall be vested in the House of Elementals, which contains an even number of elected individuals not exceeding fifty.
+
+## Functions of the House of Elementals
+The responsibility of the House of Elementals is to draft and vote on laws. Proposed laws may pass with a 51% majority vote. Members of the House of Elementals must make a good-faith effort to vote in line with the beliefs of the people they represent. Meetings of the House of Elementals are led by the Grand Sage of the Aether Sages, or a designated individual to ensure that the leadership is placed in a non-partisan individual. Political activity is allowed within the rest of the House of Elementals, with the limitation that a minimum of three separate parties always occupies seats within the House of Elementals, and no single party occupies no more or equal to 50% of the seats in the House of Elementals.
